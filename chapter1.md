@@ -105,7 +105,7 @@ test_mc(4, [msg_bad, msg_bad, msg_bad, msg_success])
 --- type:NormalExercise lang:python xp:100 skills:1 key:74e36dba46
 ## Plot the movies yourself
 
-Do you remember the plot of the last exercise? Let's make an even cooler plot!
+TESTING SYNCHING. Do you remember the plot of the last exercise? Let's make an even cooler plot!
 
 A dataset of movies, `movies`, is available in the workspace.
 
